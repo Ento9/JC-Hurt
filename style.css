@@ -1,0 +1,76 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background-color: #4c9efc;
+
+}
+
+
+
+
+embed {
+
+    margin: 5rem;
+    border-radius: 1rem;
+    box-shadow: 10px 10px 5px black;
+
+}
+
+.myButton {
+
+    text-align: center;   
+    margin: 10px;
+}
+
+.myButton {
+	box-shadow:inset 0px 1px 11px 0px #bee2f9;
+	background:linear-gradient(to bottom, #63b8ee 5%, #468ccf 100%);
+	background-color:#63b8ee;
+	border-radius:6px;
+	border:1px solid #3866a3;
+	display:inline-block;
+	cursor:pointer;
+	color:#14396a;
+	font-family:Verdana;
+	font-size:19px;
+	font-weight:bold;
+	padding:32px 32px;
+	text-decoration:none;
+	text-shadow:3px 1px 9px #7cacde;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #468ccf 5%, #63b8ee 100%);
+	background-color:#468ccf;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+h1
+
+{
+
+    text-align: center;
+    color: aliceblue;
+    box-shadow: 10px 10px 5px black;
+    background-color: #468ccf;
+    border: 3px #14396a;
+    border-radius: 1rem;
+    margin: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 1rem;
+
+}
+
+audio
+{
+
+    text-align: center;
+    margin: 10px;
+
+}
+
+
+
